@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jax's GitHub
 
 You can use the [editor on GitHub](https://github.com/JaxChen1211/Winter-vacaion/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
