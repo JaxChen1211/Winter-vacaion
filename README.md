@@ -38,6 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 # 教學課程:
+這是一個我在2019寒假給自己的作業，簡單的python教學。
 ## Ch1
    
 ## Ch2
