@@ -63,3 +63,15 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
    
    [5.2-預設函數](https://jaxchen1211.github.io/Winter-vacation/5.2-%E9%A0%90%E8%A8%AD%E5%87%BD%E6%95%B8.html)
    
+## Ch6
+   [6.1-安裝套件](https://jaxchen1211.github.io/Winter-vacation/6.1-%E5%AE%89%E8%A3%9D%E5%A5%97%E4%BB%B6)
+   
+## Ch7
+   [7.1-元組和列表](https://jaxchen1211.github.io/Winter-vacation/7.1-%E5%85%83%E7%B5%84%E5%92%8C%E5%88%97%E8%A1%A8)
+   
+   [7.2-list列表](https://jaxchen1211.github.io/Winter-vacation/7.2-list%E5%88%97%E8%A1%A8)
+   
+   [7.3-多維列表](https://jaxchen1211.github.io/Winter-vacation/7.3-%E5%A4%9A%E7%B6%AD%E5%88%97%E8%A1%A8)
+   
+   [7.4-字典](https://jaxchen1211.github.io/Winter-vacation/7.4-%E5%AD%97%E5%85%B8)
+   
